@@ -1,3 +1,6 @@
+# This is based on data from https://footprinthero.com/solar-panel-tilt-angle-calculator
+
+# One should obviously install geocoder https://geocoder.readthedocs.io
 import geocoder
 from datetime import date, datetime
 
